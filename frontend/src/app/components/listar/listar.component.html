@@ -1,0 +1,31 @@
+<mat-card>
+    <mat-card-title>
+        Lista de Usuários Cadastrados
+    </mat-card-title>
+    <div class="busca">
+        <form class="formulario">
+            <span>Buscar Usuário por nome: </span>
+            <mat-form-field>
+                <input matInput [(ngModel)] = "termoBusca" name="termoBusca" (keyup)="filtrarTabela($event.target.value)">
+            </mat-form-field>
+        </form>
+    </div>
+    <table class="tabela">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+                <th>Idade</th>
+                <th>Emails</th>
+            </tr>
+        </thead>
+        <tbody *ngFor="let usuario of usuariosRender">
+            <tr>
+                <td>{{usuario.id}}</td>
+                <td>{{usuario.nome}}</td>
+                <td>{{usuario.idade}}</td>
+                <td>{{usuario.email}}</td>
+            </tr>
+        </tbody>
+    </table>
+</mat-card>

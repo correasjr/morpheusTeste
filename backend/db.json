@@ -1,0 +1,40 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "José",
+      "idade": "29",
+      "email": "jose@gmail.com"
+    },
+    {
+      "id": 2,
+      "nome": "Maria",
+      "idade": "32",
+      "email": "maria@yahoo.com"
+    },
+    {
+      "id": 3,
+      "nome": "Pedro",
+      "idade": "42",
+      "email": "pedro@outlook.com"
+    },
+    {
+      "nome": "Júnior",
+      "idade": "29",
+      "email": "correasjunior@gmail.com",
+      "id": 4
+    },
+    {
+      "nome": "Marcos",
+      "idade": "27",
+      "email": "marcos.renan1993@gmail.com",
+      "id": 5
+    },
+    {
+      "nome": "Elen",
+      "idade": "52",
+      "email": "elen@email.com",
+      "id": 6
+    }
+  ]
+}

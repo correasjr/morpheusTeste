@@ -1,0 +1,22 @@
+.sidenav {
+    background-color: #f72a35;
+    width: 250px;
+}
+
+.nav-list a{
+    font-weight: 500;
+    font-size: larger;
+    color:blanchedalmond;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+.nav-list i{
+    padding-right: 10px;
+    font-size: 30px;
+}
+
+.content{
+    padding: 15px;
+    background-color: white;
+}
