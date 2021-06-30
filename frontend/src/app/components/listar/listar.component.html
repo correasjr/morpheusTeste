@@ -6,7 +6,7 @@
         <form class="formulario">
             <span>Buscar Usuário por nome: </span>
             <mat-form-field>
-                <input matInput [(ngModel)] = "termoBusca" name="termoBusca" (keyup)="filtrarTabela($event.target.value)">
+                <input matInput [(ngModel)] = "termoBusca" name="termoBusca" (keyup)="filtrarTabela(termoBusca)">
             </mat-form-field>
         </form>
     </div>

@@ -1,40 +1,62 @@
-{
-  "usuarios": [
-    {
-      "id": 1,
-      "nome": "José",
-      "idade": "29",
-      "email": "jose@gmail.com"
-    },
-    {
-      "id": 2,
-      "nome": "Maria",
-      "idade": "32",
-      "email": "maria@yahoo.com"
-    },
-    {
-      "id": 3,
-      "nome": "Pedro",
-      "idade": "42",
-      "email": "pedro@outlook.com"
-    },
-    {
-      "nome": "Júnior",
-      "idade": "29",
-      "email": "correasjunior@gmail.com",
-      "id": 4
-    },
-    {
-      "nome": "Marcos",
-      "idade": "27",
-      "email": "marcos.renan1993@gmail.com",
-      "id": 5
-    },
-    {
-      "nome": "Elen",
-      "idade": "52",
-      "email": "elen@email.com",
-      "id": 6
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "nome": "José",
+    "idade": "29",
+    "email": "jose@gmail.com"
+  },
+  {
+    "id": 2,
+    "nome": "Maria",
+    "idade": "32",
+    "email": "maria@yahoo.com"
+  },
+  {
+    "id": 3,
+    "nome": "Pedro",
+    "idade": "42",
+    "email": "pedro@outlook.com"
+  },
+  {
+    "nome": "Júnior",
+    "idade": "29",
+    "email": "correasjunior@gmail.com",
+    "id": 4
+  },
+  {
+    "nome": "Marcos",
+    "idade": "27",
+    "email": "marcos.renan1993@gmail.com",
+    "id": 5
+  },
+  {
+    "nome": "Elen",
+    "idade": "52",
+    "email": "elen@email.com",
+    "id": 6
+  },
+  {
+    "nome": "Daniela",
+    "idade": "30",
+    "email": "dani@hotmail.com",
+    "id": 7
+  },
+  {
+    "nome": "Fabi",
+    "idade": "30",
+    "email": "fabi@bol.com",
+    "id": 8
+  },
+  {
+    "nome": "Marcos",
+    "idade": "28",
+    "email": "neres@gmail.com",
+    "id": 9
+  },
+  {
+    "nome": "Vítor",
+    "idade": "27",
+    "email": "vitor@outlook.com",
+    "id": 10
+  }
+]
